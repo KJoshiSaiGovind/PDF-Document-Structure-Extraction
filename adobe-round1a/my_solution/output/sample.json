@@ -1,0 +1,205 @@
+{
+  "title": "Structured Query",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "In this",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "9.1 I",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "9.2 S",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Structured Query",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Language (SQL)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "9.2.1 Installing MySQL",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "9.3 D",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "9.3.1 Data type of Attribute",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "9.3.2 Constraints",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "9.4 SQL",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "9.4.1 CREATE Database",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "9.4.2 CREATE Table",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3 digits are sufficient to store values for the attribute",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "9.4.3 Describe Table",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "9.4.4 ALTER Table",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "9.4.5 DROP Statement",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "9.5 SQL",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "9.5.1 INSERTION of Records",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "9.6 SQL",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "9.6.1 SELECT Statement",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "9.6.2 QUERYING using Database OFFICE",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "9.7 D",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "9.7.1 Data Updation",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "9.7.2 Data Deletion",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "9.8 F",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "9.8.1 Single Row Functions",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "10 instalments.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "9.8.2 Aggregate Functions",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "9.9 GROUP BY C",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "9.10 O",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "9.10.1 UNION (",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "9.10.2 INTERSECT (∩)",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "9.5 shows intersection of two sets.",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "9.10.3 MINUS (-)",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "9.6 shows minus operation (also called set difference)",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "9.10.4 Cartesian Product (X)",
+      "page": 41
+    },
+    {
+      "level": "H1",
+      "text": "9.11 U",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "9.11.1 Cartesian product on two tables",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "9.11.2 JOIN on two tables",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "9.26 has a repetitive column Ucode having exactly",
+      "page": 44
+    }
+  ]
+}
